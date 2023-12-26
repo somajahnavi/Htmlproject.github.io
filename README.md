@@ -1,4 +1,4 @@
 # Htmlproject.github.io
 
 
-click to visite website :  https://somajahnavi.github.io/Htmlproject.github.io/
+click to visit website: https://somajahnavi.github.io/Htmlproject.github.io/
